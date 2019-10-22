@@ -1,9 +1,10 @@
 {
-  "name": "angular8-springboot-client",
+  "name": "vitech_front-end",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
-    "start": "node server.js",
+    "start": "ng serve",
+
     "build": "ng build",
     "test": "ng test",
     "lint": "ng lint",

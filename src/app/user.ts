@@ -8,4 +8,5 @@ country: string;
 state: string;
 address: string;
 active: boolean;
+comment: string;
 }

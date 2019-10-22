@@ -284,7 +284,10 @@
       <label for="name">Address</label>
       <input type="text" class="form-control" id="address" required [(ngModel)]="user.address" name="address">
     </div>
-
+    <div class="form-group">
+      <label for="name">Comment</label>
+      <input type="text area" class="form-control" id="comment" required [(ngModel)]="user.comment" name="comment">
+    </div>
     <button type="submit" class="btn btn-success">Submit</button>
   </form>
 </div>
