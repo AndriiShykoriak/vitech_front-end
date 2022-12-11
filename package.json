@@ -27,7 +27,7 @@
     "@stomp/stompjs": "^5.4.2",
     "angular-feather": "^6.0.2",
     "bootstrap": "^4.3.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "giphy-api": "^2.0.1",
     "jquery": "^3.4.1",
     "ng2-search-filter": "^0.4.7",
